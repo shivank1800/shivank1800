@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivank1800
+- 👋 Hi, I’m Shivank Prajapati
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking for an Internship
